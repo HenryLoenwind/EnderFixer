@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderfixer",
+  "name": "EnderFixer",
+  "description": "Library mod to prevent Forge from choking on the Turskish locale",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://enderio.com",
+  "updateUrl": "",
+  "authorList": ["HenryLoenwind"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
