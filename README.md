@@ -1,4 +1,4 @@
-Minecraft Forge (and many mods) have problems with the Turkish locale because they expect that for the basic ASCII letter A-Z the uppercase and lowercase conversions result in the same ASCII-result, e.g. i<->I. However for the Turkish locale that isn't true. There i<->İ and ı<->I.
+Minecraft Forge (and many mods) have problems with the Turkish locale because they expect that for the basic ASCII letters A-Z the uppercase and lowercase conversions result in the same ASCII-result, e.g. i<->I. However for the Turkish locale that isn't true. There i<->İ and ı<->I.
 
  
 

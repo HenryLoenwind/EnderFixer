@@ -23,7 +23,7 @@ public class EnderFixerPlugin implements IFMLLoadingPlugin {
   static {
     if (Locale.getDefault().getLanguage().equals("tr")) {
       Locale.setDefault(Locale.ENGLISH);
-      logger.info("Locale is Turkish. Focing it to English instead.");
+      logger.info("Locale is Turkish. Forcing it to English instead.");
     } else {
       logger.info("Locale is not Turkish. Doing nothing.");
     }
